@@ -1,0 +1,14 @@
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.exe
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.deps.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.runtimeconfig.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.csproj.AssemblyReference.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.genruntimeconfig.cache
