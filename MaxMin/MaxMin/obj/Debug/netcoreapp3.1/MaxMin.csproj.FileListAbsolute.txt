@@ -1,0 +1,13 @@
+C:\Users\philipst\source\repos\MaxMin\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.exe
+C:\Users\philipst\source\repos\MaxMin\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.deps.json
+C:\Users\philipst\source\repos\MaxMin\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.runtimeconfig.json
+C:\Users\philipst\source\repos\MaxMin\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.runtimeconfig.dev.json
+C:\Users\philipst\source\repos\MaxMin\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.dll
+C:\Users\philipst\source\repos\MaxMin\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.pdb
+C:\Users\philipst\source\repos\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.csproj.AssemblyReference.cache
+C:\Users\philipst\source\repos\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.AssemblyInfoInputs.cache
+C:\Users\philipst\source\repos\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.AssemblyInfo.cs
+C:\Users\philipst\source\repos\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\philipst\source\repos\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.dll
+C:\Users\philipst\source\repos\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.pdb
+C:\Users\philipst\source\repos\MaxMin\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.genruntimeconfig.cache
